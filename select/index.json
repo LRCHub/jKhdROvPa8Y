@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "流転",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-12T09:14:43.880398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流転",
+      "artist": "DEVILOOF",
+      "has_synced": false,
+      "path": "select/01_流転_DEVILOOF.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruten;流転",
+      "artist": "DEVILOOF",
+      "has_synced": false,
+      "path": "select/02_Ruten;流転_DEVILOOF.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流転",
+      "artist": "DEVILOOF",
+      "has_synced": false,
+      "path": "select/03_流転_DEVILOOF.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流転",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_流転_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
